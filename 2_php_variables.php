@@ -11,7 +11,7 @@
  7. Array
 */
 
-$name = "Mithun  Islam";
+$name = "Robiullah";
 $age = 23;
 $gps_location = 23.01564;
 
